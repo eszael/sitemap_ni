@@ -18,65 +18,61 @@ public class Sample {
 		
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.muvelodes.eu");
+		driver.manage().window().maximize();
 		
 
 //		List<WebElement> allLinks = driver.findElements(By.tagName("a"));
 //		System.out.println("Links count is: " +allLinks.size());
 				
-		List<WebElement> navLinks = driver.findElements(By.tagName("nav"));
-		
-		for(WebElement Link : navLinks)
-			System.out.println(Link.getText());
-		
-		/**********************************************************************/
+		////////////////////////////////////////////////
 		
 		driver.findElement(By.xpath("//*[@id=\"navigationmenu\"]/div[2]/ul/li[2]/a")).click();
 		
-		List<WebElement> allLinks1 = driver.findElements(By.tagName("a"));
-		for(WebElement Link : allLinks1) {
-			System.out.println(Link.getText());			
+		List<WebElement> childLinks1 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
+		for(WebElement Link : childLinks1) {
+				System.out.println(Link.getText());
 		}
 		
-		/**********************************************************************/
+		////////////////////////////////////////////////
 		
 		driver.findElement(By.xpath("//*[@id=\"navigationmenu\"]/div[2]/ul/li[3]/a")).click();
-		
-		List<WebElement> allLinks2 = driver.findElements(By.tagName("a"));
-		for(WebElement Link : allLinks2) {
-			System.out.println(Link.getText());	
+
+		List<WebElement> childLinks2 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
+		for(WebElement Link : childLinks2) {
+				System.out.println(Link.getText());
 		}
 		
-		/**********************************************************************/		
+		////////////////////////////////////////////////		
 		
 		driver.findElement(By.xpath("//*[@id=\"navigationmenu\"]/div[2]/ul/li[4]/a")).click();
-		
-		List<WebElement> allLinks3 = driver.findElements(By.tagName("a"));
-		for(WebElement Link : allLinks3) {
-			System.out.println(Link.getText());
+
+		List<WebElement> childLinks3 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
+		for(WebElement Link : childLinks3) {
+				System.out.println(Link.getText());
 		}
 		
-		/**********************************************************************/
+		////////////////////////////////////////////////
 		
 		driver.findElement(By.xpath("//*[@id=\"navigationmenu\"]/div[2]/ul/li[5]/a")).click();
-		
-		List<WebElement> allLinks4 = driver.findElements(By.tagName("a"));
-		for(WebElement Link : allLinks4) {
-			System.out.println(Link.getText());
+
+		List<WebElement> childLinks4 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
+		for(WebElement Link : childLinks4) {
+				System.out.println(Link.getText());
 		}
 		
-		/**********************************************************************/
+		////////////////////////////////////////////////
 		
 		driver.findElement(By.xpath("//*[@id=\"navigationmenu\"]/div[2]/ul/li[6]/a")).click();
-		
-		List<WebElement> allLinks5 = driver.findElements(By.tagName("a"));
-		for(WebElement Link : allLinks5) {
-			System.out.println(Link.getText());
+
+		List<WebElement> childLinks5 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
+		for(WebElement Link : childLinks5) {
+				System.out.println(Link.getText());
 		}
 		
-		/**********************************************************************/
+		////////////////////////////////////////////////
 		
 		
-		Thread.sleep(6000);
+		Thread.sleep(3000);
 		driver.quit();
 		
 					
