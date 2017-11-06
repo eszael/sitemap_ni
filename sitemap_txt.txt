@@ -1,0 +1,184 @@
+<title>Fõoldal<title>
+	<url>http://www.muvelodes.eu/<url>
+<title>Szaktörténet<title>
+	<url>http://www.muvelodes.eu/szaktortenet/<url>
+		<title>Népmûvelõ (1956-1977)<title>
+			<url>http://www.muvelodes.eu/?p=1296<url>
+		<title>Közmûvelõdési elõadó (1973-1996)<title>
+			<url>http://www.muvelodes.eu/?p=1301<url>
+		<title>Mûvelõdési és felnõttképzési menedzser (1992-2006)<title>
+			<url>http://www.muvelodes.eu/?p=1310<url>
+		<title>Mûvelõdésszervezõ fõiskolai képzés (1992-2010)<title>
+			<url>http://www.muvelodes.eu/?p=1305<url>
+		<title>Mûvelõdésszervezõ egyetemi képzés (2002-2010)<title>
+			<url>http://www.muvelodes.eu/?p=1305<url>
+		<title>Andragógia alapszak (2006-2019)<title>
+			<url>http://www.muvelodes.eu/?p=1269<url>
+		<title>Andragógus tanár (2009-2018)<title>
+			<url>http://www.muvelodes.eu/?p=1343<url>
+		<title>Játék- és szabadidõszervezõ tanár (2008-2015)<title>
+			<url>http://www.muvelodes.eu/?p=1348<url>
+		<title>Andragógia mesterszak (2008-jelenleg is)<title>
+			<url>http://www.muvelodes.eu/?p=1269<url>
+		<title>Emberi erõforrás tanácsadó (2008-jelenleg is)<title>
+			<url>http://www.muvelodes.eu/?p=1279<url>
+		<title>Kulturális mediátor (2008-jelenleg is)<title>
+			<url>http://www.muvelodes.eu/?p=1285<url>
+		<title>Közösségi mûvelõdés tanára (2014-jelenleg is)<title>
+			<url>http://www.muvelodes.eu/?p=1291<url>
+		<title>Közösségszervezés BA (2017-tõl)<title>
+			<url>http://www.muvelodes.eu/?p=1350<url>
+<title>Képzõhelyek<title>
+	<url>http://www.muvelodes.eu/kepzohelyek/<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=268<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=268<url>
+		<title>DEBRECENI EGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=268<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=268<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1398<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1398<url>
+		<title>EÖTVÖS LORÁND TUDOMÁNYEGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=1398<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1398<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=272<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=272<url>
+		<title>KODOLÁNYI JÁNOS FÕISKOLA<title>
+			<url>http://www.muvelodes.eu/?p=272<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=272<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1204<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1204<url>
+		<title>PÉCSI TUDOMÁNYEGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=1204<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1204<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=812<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=812<url>
+		<title>SZEGEDI TUDOMÁNYEGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=812<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=812<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=569<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=569<url>
+		<title>ZSIGMOND KIRÁLY EGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=569<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=569<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=586<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=586<url>
+		<title>DUNAÚJVÁROSI EGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=586<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=586<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=270<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=270<url>
+		<title>ESZTERHÁZY KÁROLY EGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=270<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=270<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1413<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1413<url>
+		<title>NYÍREGYHÁZI EGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=1413<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=1413<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=522<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=522<url>
+		<title>SZÉCHENYI ISTVÁN EGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=522<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=522<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=274<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=274<url>
+		<title>SZENT ISTVÁN EGYETEM<title>
+			<url>http://www.muvelodes.eu/?p=274<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/?p=274<url>
+<title>Kiválóságaink<title>
+	<url>http://www.muvelodes.eu/kivalosagaink/<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#4<url>
+		<title>CSOMA GYULA<title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#4<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#4<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#1<url>
+		<title>DURKÓ MÁTYÁS<title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#1<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#1<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#6<url>
+		<title>HARANGI LÁSZLÓ<title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#6<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#6<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#7<url>
+		<title>HORVÁTH MARGIT<title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#7<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#7<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#2<url>
+		<title>IDEI MIKLÓS<title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#2<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#2<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#5<url>
+		<title>MARÓTI ANDOR<title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#5<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#5<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#3<url>
+		<title>RUBOVSZKY KÁLMÁN<title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#3<url>
+		<title><title>
+			<url>http://www.muvelodes.eu/kivalosagaink/#3<url>
+		<title>Csoma Gyula 1932-<title>
+			<url>null<url>
+		<title>Durkó Mátyás 1926-2005<title>
+			<url>null<url>
+		<title>www.durkokonferencia.hu/durko-matyasrol<title>
+			<url>http://www.durkokonferencia.hu/durko-matyasrol/<url>
+		<title>Harangi László 1929-2015<title>
+			<url>null<url>
+		<title>Horváth Margit 1930-<title>
+			<url>null<url>
+		<title>Idei Miklós 1942–2001<title>
+			<url>null<url>
+		<title>Maróti Andor 1927-<title>
+			<url>null<url>
+		<title>Rubovszky Kálmán 1942-2011<title>
+			<url>null<url>
+<title>Elhelyezkedés<title>
+	<url>http://www.muvelodes.eu/elhelyezkedes/<url>
+<title>Tudomány<title>
+	<url>http://www.muvelodes.eu/tudomany/<url>
