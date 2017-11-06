@@ -1,8 +1,8 @@
-src/onePackage/Sample.java (v8) (végleges) 
+src/onePackage/Sample.java (v7) (vÃ©gleges) 
 (System.setProperty("webdriver.chrome.driver", "c:\\chromedriver.exe");)
 
-input_sitemap.txt fájlból olvas
-sitemap_output.txt fájlba írja az oldaltérképet
+input_sitemap.txt fÃ¡jlbÃ³l olvas
+sitemap_output.txt fÃ¡jlba Ã­rja az oldaltÃ©rkÃ©pet
 -----------------------------------------------
-src/onePackage/Sample2.java MINTA (nem végleges)
-próbaváltozat, ahol XML fájlba ír
+src/onePackage/Sample2.java MINTA (nem vÃ©gleges)
+prÃ³bavÃ¡ltozat, ahol XML fÃ¡jlba Ã­r
