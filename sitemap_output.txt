@@ -162,22 +162,8 @@
 			<url>http://www.muvelodes.eu/kivalosagaink/#3<url>
 		<title><title>
 			<url>http://www.muvelodes.eu/kivalosagaink/#3<url>
-		<title>Csoma Gyula 1932-<title>
-			<url>null<url>
-		<title>Durkó Mátyás 1926-2005<title>
-			<url>null<url>
 		<title>www.durkokonferencia.hu/durko-matyasrol<title>
 			<url>http://www.durkokonferencia.hu/durko-matyasrol/<url>
-		<title>Harangi László 1929-2015<title>
-			<url>null<url>
-		<title>Horváth Margit 1930-<title>
-			<url>null<url>
-		<title>Idei Miklós 1942–2001<title>
-			<url>null<url>
-		<title>Maróti Andor 1927-<title>
-			<url>null<url>
-		<title>Rubovszky Kálmán 1942-2011<title>
-			<url>null<url>
 <title>Elhelyezkedés<title>
 	<url>http://www.muvelodes.eu/elhelyezkedes/<url>
 <title>Tudomány<title>

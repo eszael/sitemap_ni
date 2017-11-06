@@ -45,8 +45,7 @@ public class Sample {
 		////////////////////////////////////////////////
 		
 		try {
-			
-		
+					
 		File file = new File("sitemap_output.txt");
         
 		if(!file.exists()) {
@@ -71,8 +70,10 @@ public class Sample {
 		
 		List<WebElement> childLinks01 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
 		for(WebElement Link : childLinks01) {
+			if (Link.getAttribute("href") != null) {
 			pw.print("		<title>" + Link.getText());pw.println("<title>");
 			pw.print("			<url>" + Link.getAttribute("href"));pw.println("<url>");
+			}
 		}
 		
 		/////////////////////////////////////////////////////
@@ -85,9 +86,12 @@ public class Sample {
 		
 		List<WebElement> childLinks02 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
 		for(WebElement Link : childLinks02) {
+			if (Link.getAttribute("href") != null) {
 			pw.print("		<title>" + Link.getText());pw.println("<title>");
 			pw.print("			<url>" + Link.getAttribute("href"));pw.println("<url>");
+			}
 		}
+		
 		
 		/////////////////////////////////////////////////////
 		
@@ -100,8 +104,10 @@ public class Sample {
 		
 		List<WebElement> childLinks03 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
 		for(WebElement Link : childLinks03) {
+			if (Link.getAttribute("href") != null) {
 			pw.print("		<title>" + Link.getText());pw.println("<title>");
 			pw.print("			<url>" + Link.getAttribute("href"));pw.println("<url>");
+			}
 		}		
 		
 		/////////////////////////////////////////////////////
@@ -115,8 +121,10 @@ public class Sample {
 		
 		List<WebElement> childLinks04 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
 		for(WebElement Link : childLinks04) {
+			if (Link.getAttribute("href") != null) {
 			pw.print("		<title>" + Link.getText());pw.println("<title>");
 			pw.print("			<url>" + Link.getAttribute("href"));pw.println("<url>");
+			}
 		}
 		
 		/////////////////////////////////////////////////////
@@ -130,8 +138,10 @@ public class Sample {
 		
 		List<WebElement> childLinks05 = driver.findElement(By.xpath("//*[@id=\"ttr_content\"]")).findElements(By.tagName("a"));
 		for(WebElement Link : childLinks05) {
+			if (Link.getAttribute("href") != null) {
 			pw.print("		<title>" + Link.getText());pw.println("<title>");
 			pw.print("			<url>" + Link.getAttribute("href"));pw.println("<url>");
+			}
 		}
 		
 		/////////////////////////////////////////////////////
