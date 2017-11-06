@@ -1,4 +1,4 @@
-src/onePackage/Sample.java (v7) (végleges) 
+src/onePackage/Sample.java (v8) (végleges) 
 (System.setProperty("webdriver.chrome.driver", "c:\\chromedriver.exe");)
 
 input_sitemap.txt fájlból olvas
