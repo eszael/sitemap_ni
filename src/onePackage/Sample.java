@@ -1,9 +1,12 @@
 package onePackage;
 
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
+import java.util.Properties;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -17,10 +20,26 @@ public class Sample {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
+		File file0 = new File("input_sitemap.txt");
+		  
+		FileInputStream fileInput = null;
+		try {
+			fileInput = new FileInputStream(file0);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		Properties prop = new Properties();
+		
+		try {
+			prop.load(fileInput);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
 		System.setProperty("webdriver.chrome.driver", "c:\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
-		driver.get("http://www.muvelodes.eu");
+		driver.get(prop.getProperty("URL"));
 		driver.manage().window().maximize();
 				
 		////////////////////////////////////////////////
@@ -28,7 +47,7 @@ public class Sample {
 		try {
 			
 		
-		File file = new File("sitemap_txt.txt");
+		File file = new File("sitemap_output.txt");
         
 		if(!file.exists()) {
 				file.createNewFile();	
