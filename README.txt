@@ -5,4 +5,4 @@ input_sitemap.txt fájlból olvas
 sitemap_output.txt fájlba írja az oldaltérképet
 -----------------------------------------------
 src/onePackage/Sample2.java MINTA (nem végleges)
-próbaváltozat, ahol XML fájlba ír
+próbaváltozat, ahol XML fájlba ír (file.xml)
